@@ -6,7 +6,7 @@ Most of these models are ripped from GTA SA, cat, car and alleyway model are fro
 
 ## Final Renders
 
-![Shot 1](renders/hq/dalley1.png)
-![Shot 2](renders/hq/dalley2.png)
-![Shot 3](renders/hq/dalley3.png)
-![Shot 4](renders/hq/dalley4.png)
+![Shot 1](renders/web/dalley1.png)
+![Shot 2](renders/web/dalley2.png)
+![Shot 3](renders/web/dalley3.png)
+![Shot 4](renders/web/dalley4.png)
